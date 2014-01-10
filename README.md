@@ -92,11 +92,15 @@ couch.db('db_name').doc('doc_id').remove(callback)
 
 All callback return an object
 
-If it can not found database or doc return {"notFound":true} 
+If it can not found database or doc return {"notFound":true}
+
 If create database but exists return {"exist":true} you can choose delete or use it
+
 Other failed return {"failed":true}
 
+
 Sorry my english
+
 
 Welcome suggestions
 
