@@ -1,5 +1,5 @@
 {
-  "name": "couchQuery",
+  "name": "couchquery",
   "version": "0.0.1",
   "description": "a simple couchdb client for nodejs",
   "main": "couchdb.js",
