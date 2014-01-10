@@ -70,13 +70,21 @@ couch.db('articles').view('list/date',['foo','bar'],function(obj){console.log(ob
 ## Others
 
 couch.allDbs(callback)
+
 couch.newUUID(callback)
+
 couch.db('db_name').info(callback)
+
 couch.db('db_name').create(callback)
+
 couch.db('db_name').remove(callback)
+
 couch.db('db_name').allDocs(callback)
+
 couch.db('db_name').createDoc(doc,callback)
+
 couch.db('db_name').getDoc(docId,callback)
+
 couch.db('db_name').doc('doc_id').remove(callback)
 
 
