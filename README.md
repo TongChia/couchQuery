@@ -1,5 +1,6 @@
-# couchQuery
+couchQuery
 ===========
+#### a simple couchdb module for nodejs
 
 ## Install
 
